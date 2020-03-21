@@ -30,14 +30,14 @@ def using_insert(array, 'element')
   array.insert(3,'element')
 end
 
-def using_flatten(array)
-  array.flatten()
-end
-
-def using_delete(array,string)
-  array.delete() = string
-end
-
-def using_delete_at(array, integer)
-  array.delete() = integer
-end
+# def using_flatten(array)
+#   array.flatten()
+# end
+# 
+# def using_delete(array,string)
+#   array.delete() = string
+# end
+# 
+# def using_delete_at(array, integer)
+#   array.delete() = integer
+# end
