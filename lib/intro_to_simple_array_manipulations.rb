@@ -26,11 +26,11 @@ def using_concat(array,arrays)
   array.concat(arrays)
 end
 
-def using_insert(array)
+def using_insert(array,element)
   array.insert()
 end
 
-def using_flatten(array, element)
+def using_flatten(array)
   array.flatten()
 end
 
