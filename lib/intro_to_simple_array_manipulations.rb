@@ -30,7 +30,7 @@ def using_insert(array)
   array.insert()
 end
 
-def using_flatten(array)
+def using_flatten(array, element)
   array.flatten()
 end
 
