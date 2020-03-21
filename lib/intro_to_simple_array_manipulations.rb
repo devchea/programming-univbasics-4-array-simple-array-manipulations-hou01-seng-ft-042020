@@ -33,3 +33,11 @@ end
 def using_flatten(array)
   array.flatten()
 end
+
+def using_delete(array,integer)
+  array.delete()
+end
+
+def using_delete_at(array, integer)
+  array.del
+end
